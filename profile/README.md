@@ -10,11 +10,11 @@
 
 - 🌱 We're working with **Springboot, React JS, Flutter**
 
-- 👨‍💻 All of my projects are available at [http://onesnzerostec.com/](http://onesnzerostec.com/)
+- 👨‍💻 All of our projects are available at [http://onzdev.com/](http://onzdev.com/)
 
 - 💬 Ask me about **PLSQL, Oracle, WordPress, PHP**
 
-- 📫 How to reach me **dev@onesnzerostec.com**
+- 📫 How to reach me **info@onzdev.com**
 
 <h3 align="left">Connect Us:</h3>
 <p align="left">
