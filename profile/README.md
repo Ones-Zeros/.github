@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome Ones & Zeros (pvt) Ltd Github page</h1>
-<p><img align="center" src="https://onesnzerostec.com/images/logo.png" alt="ones-zeros" /></p>
+<p><img align="center" src="https://onzdev.com/wp-content/uploads/2023/08/logo.png" alt="ones-zeros" /></p>
 <h3 align="center">A software development company from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ones-zeros&label=Profile%20views&color=0e75b6&style=flat" alt="ones-zeros" /> </p>
