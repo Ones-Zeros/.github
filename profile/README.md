@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of our projects are available at [http://onzdev.com/](http://onzdev.com/)
 
-- 💬 Ask me about **PLSQL, Oracle, WordPress, PHP**
+- 💬 Ask me about **JAVA Spring Boot, React JS, SQL**
 
 - 📫 How to reach me **info@onzdev.com**
 
