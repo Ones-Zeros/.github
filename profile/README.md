@@ -141,11 +141,11 @@ Our experience includes delivering and supporting software initiatives for:
 ## Activity & Contribution
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diniduhewage&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ones-Zeros&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diniduhewage&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ones-Zeros&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
