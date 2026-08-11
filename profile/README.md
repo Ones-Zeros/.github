@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://onzdev.com/wp-content/uploads/2023/08/logo.png" alt="Ones & Zeros Logo" width="170" />
+  <img src="https://onzdev.com/assets/logo_text-hSozmQYT.png" alt="Ones & Zeros Logo" width="170" />
 </p>
 
 <h1 align="center">Ones & Zeros (Pvt) Ltd</h1>
